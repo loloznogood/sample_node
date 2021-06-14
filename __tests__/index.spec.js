@@ -2,4 +2,4 @@ test("hello_world", () => {
     expect(true).toBe(true)
 })
    
-//test du workflow 1
+//test du workflow 2
