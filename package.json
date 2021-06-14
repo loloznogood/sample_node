@@ -7,7 +7,7 @@
     "test": "jest",
     "build": "node index.js",
     "lint": "eslint ."
-  },   
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/loloznogood/sample_node.git"
