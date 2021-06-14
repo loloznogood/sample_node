@@ -1,0 +1,26 @@
+{
+  "name": "sample_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "node index.js",
+    "lint": "eslint ."
+  },   
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loloznogood/sample_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loloznogood/sample_node/issues"
+  },
+  "homepage": "https://github.com/loloznogood/sample_node#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.28.0",
+    "jest": "^27.0.4"
+  }
+}
